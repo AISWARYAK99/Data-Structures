@@ -1,3 +1,4 @@
+/* Merge Sort in array*/
 #include<stdio.h>
 #include<conio.h>
 void Mergesort(int[],int,int);
