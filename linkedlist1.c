@@ -1,4 +1,4 @@
-/* creating linked list of 2 nodes*/
+/* creating single linked list of 2 nodes*/
 #include<stdio.h>
 #include<stdlib.h>
 struct Node
