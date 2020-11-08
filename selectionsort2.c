@@ -1,3 +1,4 @@
+/* Selection Sort using array*/
 #include<stdio.h>
 #include<conio.h>
 void selectionsort(int *,int);
