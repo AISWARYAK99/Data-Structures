@@ -1,4 +1,4 @@
-/* Queue using Array*/
+/* Queue using Array */
 #include<stdio.h>
 #include<stdlib.h>
 
