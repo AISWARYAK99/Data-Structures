@@ -1,3 +1,4 @@
+/* Bubble sort using array*/
 #include<stdio.h>
 #include<conio.h>
 void bubblesort(int *,int);
