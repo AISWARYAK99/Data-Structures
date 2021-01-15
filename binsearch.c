@@ -17,7 +17,7 @@ int binsearch(int arr[],int l,int h,int x)
 }
 void main()
 {
-     int n,arr[100],item;
+    int n,arr[100],item;
     printf("Enter the size of array\n");
     scanf("%d",&n);
     printf("Enter the array elements\n");
